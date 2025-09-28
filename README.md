@@ -2,11 +2,11 @@
 ### Submitted by:-DHEERAJ KUMAR PANDIT
 #### DATE - 29-09-2025
 #### Course - Data analysis using Python 
-##### Dataset Information
+## Dataset Information
 This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through the Washington State
 Department of Licensing (DOL).
 
-####Column Descriptions:
+#### Column Descriptions:
 * Column Name Column Name Description Description
 * VIN (1-10): VIN (1-10) First 10 characters of the Vehicle Identification Number (unique identifier for a vehicle)
 * County: The county where the vehicle is registered (e.g., King, Kitsap)
