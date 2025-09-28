@@ -1,12 +1,13 @@
 # EV-Data-Analysis
 ### Submitted by:-DHEERAJ KUMAR PANDIT
 #### DATE - 29-09-2025
-#### Course - Data analysis using Python 
+#### Course - Data analysis using Python
+
 ## Dataset Information
 This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through the Washington State
 Department of Licensing (DOL).
 
-#### Column Descriptions:
+### Column Descriptions:
 * Column Name Column Name Description Description
 * VIN (1-10): VIN (1-10) First 10 characters of the Vehicle Identification Number (unique identifier for a vehicle)
 * County: The county where the vehicle is registered (e.g., King, Kitsap)
@@ -25,3 +26,6 @@ Department of Licensing (DOL).
 * Vehicle Location: GPS coordinates (longitude, latitude) of the vehicle’s registered location
 * Electric Utility: The energy provider for the area (e.g., Puget Sound Energy, City of Seattle)
 * 2020 Census Tract: The Census tract for demographic and geographic analysis
+
+### Objective
+The objective of this project is to analyze Electric Vehicle (EV) registration data in the state of Washington (WA) using Python. The dataset includes details such as vehicle make and model, electric range, base MSRP, model year, and geographic distribution (city and county). This analysis aims to uncover trends in EV adoption across different regions, evaluate the distribution of vehicle types and ranges, and gain insights into pricing and model popularity. The project uses data visualization and exploratory data analysis (EDA) techniques to support better understanding of the growing EV landscape in Washington State.
