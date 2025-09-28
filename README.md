@@ -29,3 +29,26 @@ Department of Licensing (DOL).
 
 ### Objective
 The objective of this project is to analyze Electric Vehicle (EV) registration data in the state of Washington (WA) using Python. The dataset includes details such as vehicle make and model, electric range, base MSRP, model year, and geographic distribution (city and county). This analysis aims to uncover trends in EV adoption across different regions, evaluate the distribution of vehicle types and ranges, and gain insights into pricing and model popularity. The project uses data visualization and exploratory data analysis (EDA) techniques to support better understanding of the growing EV landscape in Washington State.
+
+### Conclusion
+This project provides a comprehensive analysis of Electric Vehicle (EV) data in Washington State, covering key stages of the data science process:
+
+* 🔧 Data Cleaning: Involved handling missing values, correcting data types, and preparing the dataset for analysis.
+
+* 📊 Exploratory Data Analysis (EDA): Helped uncover trends in EV adoption, popular vehicle makes/models, distribution across cities and counties, and electric range comparisons.
+
+* 📈 Data Visualization: Graphs and charts were used to illustrate insights such as the relationship between vehicle price and electric range, distribution of model years, and geographic hotspots for EV registrations.
+
+* 📉 Linear Regression: A regression model was used to analyze the relationship between the base MSRP (price) and electric range, revealing how price impacts range or vice versa.
+
+#### 🔍 Key Takeaways:
+
+* Urban areas have a higher concentration of EVs, possibly due to better infrastructure.
+
+* Tesla and Nissan are among the most commonly registered EV makes.
+
+* There's a positive correlation between base MSRP and electric range — higher-priced EVs generally offer longer ranges.
+
+* Linear regression helped quantify this relationship and demonstrated how statistical models can be used to support decision-making in the EV space.
+
+* Overall, this project demonstrates how Python can be effectively used for real-world data analysis — from cleaning and exploring data to modeling and drawing actionable insights.
